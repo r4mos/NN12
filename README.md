@@ -106,6 +106,10 @@ Prepárate para convertirte en un verdadero detective del código, explorando la
     
     - Obtener cualquier serial válido comprendiendo el código (keygen)
 
+- **Conclusiones**
+
+- **Agradecimientos**
+
 ### Metodología
 
 El taller combinará sesiones teóricas con prácticas intensivas, donde cada participante podrá aplicar los conceptos aprendidos en ejemplos reales y ejercicios cuidadosamente diseñados para consolidar los conocimientos adquiridos. Se fomentará un ambiente de colaboración activa, en el que los asistentes puedan intercambiar ideas, compartir experiencias y aprender unos de otros. El objetivo es no solo entender los fundamentos, sino también experimentar de primera mano el proceso de Ingeniería Inversa.
